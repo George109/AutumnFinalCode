@@ -1,0 +1,12 @@
+cs42l51.c:412:10:cs42l51_SetFrequency	0	static
+cs42l51.c:454:10:cs42l51_SetOutputMode	0	static
+cs42l51.c:144:10:cs42l51_Init	40	static
+cs42l51.c:365:10:cs42l51_Stop	24	static
+cs42l51.c:393:10:cs42l51_SetVolume	16	static
+cs42l51.c:424:10:cs42l51_SetMute	16	static
+cs42l51.c:243:6:cs42l51_DeInit	8	static
+cs42l51.c:256:10:cs42l51_ReadID	8	static
+cs42l51.c:464:10:cs42l51_Reset	8	static
+cs42l51.c:333:10:cs42l51_Pause	16	static
+cs42l51.c:286:10:cs42l51_Play	32	static
+cs42l51.c:349:10:cs42l51_Resume	16	static

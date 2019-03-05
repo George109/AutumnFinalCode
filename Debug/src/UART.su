@@ -1,0 +1,2 @@
+uart.c:10:6:HAL_UART_MspInit	48	static
+uart.c:50:6:MX_USART2_UART_Init	8	static

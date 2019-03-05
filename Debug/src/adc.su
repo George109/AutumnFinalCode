@@ -1,0 +1,4 @@
+adc.c:12:6:ADC_init	16	static
+adc.c:51:6:ADC1_2_IRQHandler	40	static
+adc.c:91:6:ADC_GPIO_Init	48	static
+adc.c:116:6:TIM4_Init	24	static

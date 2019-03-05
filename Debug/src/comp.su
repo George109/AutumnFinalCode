@@ -1,0 +1,6 @@
+comp.c:20:6:COMP1_Init	16	static
+comp.c:45:6:COMP_GPIO_Init	32	static
+comp.c:71:6:timer3Config	16	static
+comp.c:91:6:COMP_IRQHandler	8	static
+comp.c:101:6:TIM3_IRQHandler	8	static
+comp.c:120:6:Frequecy_Cal	40	static

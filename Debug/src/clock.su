@@ -1,0 +1,2 @@
+clock.c:14:6:Error_Handler	8	static
+clock.c:24:6:SystemClock_Config	104	static
