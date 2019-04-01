@@ -14,4 +14,4 @@ STM32L476G Discovery Board
 
 ## Acknowledgements
 
-My group, Yihang, A & Pranish
+My group: Yihang, A & Pranish
